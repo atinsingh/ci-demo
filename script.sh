@@ -4,4 +4,4 @@ touch file.txt
 sleep 5
 echo 'HELLO FROM GIT' > file.txt
 cat file.txt
-sleep 5
+sleep 10
